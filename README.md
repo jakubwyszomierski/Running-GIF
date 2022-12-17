@@ -6,5 +6,7 @@ The project utilises Open Street Map data (`osmdata`) to query roads data. `ggan
 ### Content:
 
 `The_beer.gpx` -> .gpx file downloaded from Strava.
+
 `Running_gif.R` -> R script written to create the visualisation.
+
 `Strava_run.png` -> static activity map saved as `.png`
